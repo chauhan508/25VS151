@@ -5,7 +5,8 @@ body{
     background-image: url('img\ 1.jpg');
     background-repeat: repeat-y;
     background-position: top right; */
-    background: url('img\ 1.jpg') repeat-x top 50px left 100px firebrick; 
+    /* background: url('img\ 1.jpg') repeat-x top 50px left 100px firebrick;  */
+    
 
 }
 html,
